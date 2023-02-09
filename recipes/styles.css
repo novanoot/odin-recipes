@@ -9,7 +9,7 @@
 
 .larger {
     font-size: 25px;
-    font-family: fantasy;
+    font-family: fantasy, cursive, 'Times New Roman', Times, serif;
 }
 
 
@@ -21,4 +21,9 @@
 .tooLarge {
     height: auto;
     width: 500px;
+}
+
+.align-center.larger.recipe-title {
+    color:cadetblue;
+    font-size: 40px;
 }
